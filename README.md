@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Improved Detection of Fraud Cases in E-commerce and Bank Transactions
 
 ## Project Overview
@@ -708,3 +709,6 @@ This will start the Flask development server. Open a web browser and go to `http
 ## Contributors
 
 - [Matiwos Desalegn](https://github.com/desta-getaw)
+=======
+# Improved-detection-of-fraud-cases-in-e-commerce-and-bank-transactions
+>>>>>>> 6c9f8dff724ff01a61fef181ed6d95b8960f280c
