@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Improved Detection of Fraud Cases in E-commerce and Bank Transactions
 
 ## Project Overview
@@ -68,7 +68,7 @@ fraud_detection/
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Required Python libraries:
   - pandas
   - matplotlib
@@ -706,9 +706,7 @@ python serve_model.py
 
 This will start the Flask development server. Open a web browser and go to `http://localhost:5000/`. You should see the form where you can input data and get the fraud detection result.
 
-## Contributors
 
-- [Matiwos Desalegn](https://github.com/desta-getaw)
+- https://github.com/desta-getaw
 =======
-# Improved-detection-of-fraud-cases-in-e-commerce-and-bank-transactions
->>>>>>> 6c9f8dff724ff01a61fef181ed6d95b8960f280c
+
