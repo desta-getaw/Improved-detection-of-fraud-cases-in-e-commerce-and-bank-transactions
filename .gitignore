@@ -1,5 +1,6 @@
 data
 .venv
+.desvenv
 data/raw/creditcard.csv
 notebooks/mlruns/0/
 notebooks/models/fraud_data/
