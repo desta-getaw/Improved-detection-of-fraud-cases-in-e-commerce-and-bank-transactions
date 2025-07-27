@@ -86,7 +86,7 @@ fraud_detection/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/desta-getaw/Improved-detection-of-fraud-cases-in-e-commerce-and-bank-transactions.git
    ```
 2. Navigate to the project directory:
    ```sh
