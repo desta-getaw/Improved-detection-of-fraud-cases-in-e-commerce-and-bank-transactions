@@ -10,7 +10,7 @@ def ip_to_int(ip):
         return int(ip)
     except ValueError:
         return int(ipaddress.ip_address(ip))
-
+# by desta Getaw
 def main():
     # Load the datasets
     fraud_data = pd.read_csv('../data/raw/Fraud_Data.csv')
