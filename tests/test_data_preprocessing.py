@@ -3,8 +3,12 @@ import pandas as pd
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join('..', 'src')))
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
 
-from data_preprocessing import DataPreprocessing
+#from data_preprocessing import DataPreprocessing
+from src.data_preprocessing import DataPreprocessing
 
 class TestDataPreprocessing(unittest.TestCase):
 
